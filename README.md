@@ -12,11 +12,11 @@
 
 ## <a name="contributors"></a>Contributors
 Intl.Intern was created by the Go Go Gadget Team at the University of Minnesota Coding Bootcamp.
-[Christopher Biessener](https://github.com/scorpiosoft)
-[Dani Carter](https://github.com/danielaine3)
-[Susan Marek](https://github.com/sjbmarek)
-[Joseph Semlak](https://github.com/semlak)
-[Jeff Studenski](https://github.com/jstudenski)
+- [Christopher Biessener](https://github.com/scorpiosoft)
+- [Dani Carter](https://github.com/danielaine3)
+- [Susan Marek](https://github.com/sjbmarek)
+- [Joseph Semlak](https://github.com/semlak)
+- [Jeff Studenski](https://github.com/jstudenski)
 
 ## <a name="about-this-project"></a> About this project
 Tens of thousands of college students across the US travel abroad for internship or study abroad opportunities every year. With each of these opportunities typically come requirements from the university, internship program or personal goals the students would like to reach. Managing that inormation while in a foreign country can be tedious and challenging. 
